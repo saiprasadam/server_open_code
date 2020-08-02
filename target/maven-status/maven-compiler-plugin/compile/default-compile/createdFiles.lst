@@ -1,0 +1,16 @@
+com\openshift\coursecatalogue\repositories\UserRepo.class
+com\openshift\coursecatalogue\service\EnrollmentService.class
+com\openshift\coursecatalogue\CourseCatalogueServerAppApplication.class
+com\openshift\coursecatalogue\model\Courses.class
+com\openshift\coursecatalogue\model\Filter.class
+com\openshift\coursecatalogue\model\UserwithCourse.class
+com\openshift\coursecatalogue\controller\UserController.class
+com\openshift\coursecatalogue\util\MailServices.class
+com\openshift\coursecatalogue\model\Users.class
+com\openshift\coursecatalogue\model\Enrollment.class
+com\openshift\coursecatalogue\service\CourseService.class
+com\openshift\coursecatalogue\model\Enrollments.class
+com\openshift\coursecatalogue\repositories\CourseRepo.class
+com\openshift\coursecatalogue\repositories\EnrollmentRepo.class
+com\openshift\coursecatalogue\controller\CourseController.class
+com\openshift\coursecatalogue\service\UserService.class
