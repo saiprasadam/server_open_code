@@ -1,1 +1,3 @@
-# server_open_code
+# digital-guru-server
+
+The backend architecture
